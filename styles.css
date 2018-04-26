@@ -1,0 +1,18 @@
+body {
+  width: 970px;
+  margin: auto;
+}
+img {
+  width: 400px;
+  height: 225px;
+}
+
+h4 {
+  display: inline;
+}
+
+.house-details {
+  border: 2px solid silver;
+  width: 800px;
+  height: 400px;
+}
